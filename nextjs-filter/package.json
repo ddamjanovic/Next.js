@@ -1,0 +1,33 @@
+{
+  "name": "nextjs-filter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "@material-ui/core": "^4.12.3",
+    "@material/checkbox": "^13.0.0",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.1",
+    "install": "^0.13.0",
+    "material-ui-flat-pagination": "^4.1.2",
+    "next": "11.1.2",
+    "npm": "^7.24.1",
+    "react": "17.0.2",
+    "react-bootstrap": "^1.6.3",
+    "react-dom": "17.0.2",
+    "react-select": "^5.0.0",
+    "reactstrap": "^8.10.0",
+    "swr": "^1.0.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}

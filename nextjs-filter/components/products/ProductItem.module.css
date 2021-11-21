@@ -1,0 +1,31 @@
+.item {
+    margin: 1rem 0;
+  }
+  
+  .image {
+    width: 100%;
+    overflow: hidden;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+  }
+  
+  .image img {
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  .content {
+    background-color: rgb(255, 237, 215);
+  }
+  
+  .name {
+    font-size: 10px;
+    text-align: left;
+    color: #2c292b;
+  }
+  
+  .price {
+    text-align: right;
+    font-size: 12px;
+    color: rgba(221, 188, 3, 0.884);
+  }
